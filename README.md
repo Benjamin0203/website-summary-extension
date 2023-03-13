@@ -24,13 +24,15 @@ npm run build
 
 # Showcase
 
-![showcase1](./public/showcase1.png)
-
-![showcase2](./public/showcase2.png)
-
+## Check the video demo:
 
 https://user-images.githubusercontent.com/25517478/224609885-0d785a83-b7eb-49c7-abcd-cef2806c4209.mov
 
+## Screenshots:
+
+![showcase1](./public/showcase1.png)
+
+![showcase2](./public/showcase2.png)
 
 # Create React App
 
