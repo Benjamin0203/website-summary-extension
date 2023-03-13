@@ -28,6 +28,10 @@ npm run build
 
 ![showcase2](./public/showcase2.png)
 
+
+https://user-images.githubusercontent.com/25517478/224609885-0d785a83-b7eb-49c7-abcd-cef2806c4209.mov
+
+
 # Create React App
 
 ```bash
