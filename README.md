@@ -1,6 +1,6 @@
 # Website Summary Extension
 
-Chrome extension
+A chrome extension that get the summary of the website articles using new ChatGPT API: gpt-3.5-turbo
 
 # Set up
 
@@ -33,6 +33,14 @@ https://user-images.githubusercontent.com/25517478/224609885-0d785a83-b7eb-49c7-
 ![showcase1](./public/showcase1.png)
 
 ![showcase2](./public/showcase2.png)
+
+# Tech Stack
+
+- React
+- TypeScript
+- Artificial Intelligence
+- React Scripts
+- Craco
 
 # Create React App
 
